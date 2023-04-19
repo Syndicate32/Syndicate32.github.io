@@ -1,8 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: Short CV
-description: Full CV available upon request
+title: Short Bio
+description: Contact me if you need my CV
 nav: true
 nav_order: 4
 ---
